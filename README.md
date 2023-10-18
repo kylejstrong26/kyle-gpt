@@ -41,7 +41,7 @@
 KyleGPT is a ChatGPT clone built on React with NodeJS and Express. The OpenAI API is called when an input is submitted. OpenAI returns the answer
 to the user in the feed above. The user is able to save old conversations and create new dialogues with the API.
 <br/>
-See video of working model: []
+See video of working model: https://www.youtube.com/watch?v=nglteXtq2Wg
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
